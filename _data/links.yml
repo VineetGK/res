@@ -1,5 +1,4 @@
 # links
-- #url: "#"
-  #description: Springfield Jazz Enthusiasts
-- #url: "#"
-  #description: Springfield Young Professionals
+# add entries like the example below and enable resume_section_links in _config.yml
+# - url: "https://example.com"
+#   description: Example link

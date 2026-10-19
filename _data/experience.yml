@@ -1,22 +1,15 @@
 # Jobs
-# VP of Global Communications
 - company: TechCiti
   position: Data Science Intern
-  duration:[ 16/08/2023 – 16/09/2023 ] 
-  summary: • Internship was on Data Science
-• Worked on project "Stock Market Prediction"
-• It is used to predict the stock price using LSTM and KNN algorithms
+  duration: "16/08/2023 – 16/09/2023"
+  summary: >-
+    • Internship was on Data Science<br>
+    • Worked on project "Stock Market Prediction"<br>
+    • It is used to predict the stock price using LSTM and KNN algorithms
 
-# Director of Digital Stratgy
 - company: DevTown
   position: Cyber Security Intern
-  duration:[ 10/08/2021 – 10/01/2022 ] 
-  summary: • Assigned under the team of Cyber Security training and helped in developing skills
-• Worked on Networking Fundamentals, Web Application, Cloud Computing with AWS
-
-
-# Communications Coordinator
-- #company: Springfield Women & Children's Center
-  #position: Communications Coordinator
-  #duration:   Jun, 2008  &mdash; May, 2010
-  #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration: "10/08/2021 – 10/01/2022"
+  summary: >-
+    • Assigned under the team of Cyber Security training and helped in developing skills<br>
+    • Worked on Networking Fundamentals, Web Application, Cloud Computing with AWS

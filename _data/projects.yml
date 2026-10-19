@@ -1,18 +1,18 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
 - project: Covid Bed Slot Management
-  role: : Jawaharlal Nehru National College of Engineering, Shivamogga
-  duration: [ 10/2022 – 01/2023 ]
-  # url: "#"
-  description: It is a website used by medical facilities for managing covid patients. 
-  Skills developed - MySQL, HTML and Python
+  role: Jawaharlal Nehru National College of Engineering, Shivamogga
+  duration: "10/2022 – 01/2023"
+  url: "https://github.com/VineetGK/Covid-Bed-Slot-Management"
+  description: >-
+    It is a website used by medical facilities for managing covid patients.
+    Skills developed - MySQL, HTML and Python
 
-# Springfield Community Outreach Group
 - project: Car Parking
   role: Jawaharlal Nehru National College of Engineering, Shivamogga
-  duration: [ 04/2023 – 07/2023 ] 
-  # url: "#"
-  description: : It is a 3D Computer Graphics project developed using OpenGL and Glut
-  Skills developed - C++, OpenGL and Glut
+  duration: "04/2023 – 07/2023"
+  url: "https://github.com/VineetGK/CarParking"
+  description: >-
+    It is a 3D Computer Graphics project developed using OpenGL and Glut.
+    Skills developed - C, OpenGL and Glut
